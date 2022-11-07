@@ -1,4 +1,4 @@
-# NWL COPA 2022 teste 03
+# NWL COPA 2022
 
 ## trilha Explorer - Rocketseat
 
